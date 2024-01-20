@@ -937,3 +937,5 @@ class UnitTests(unittest.TestCase):
         self.assertEquals(GiftBox.GiveDamage(), 50)
     
 
+if __name__ == '__main__':
+  unittest.main()
