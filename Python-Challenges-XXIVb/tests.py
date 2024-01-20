@@ -140,3 +140,5 @@ class UnitTests(unittest.TestCase):
 
           print("Invalid phone number!")
 
+if __name__ == '__main__':
+  unittest.main()

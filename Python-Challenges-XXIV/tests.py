@@ -1060,3 +1060,5 @@ class UnitTests(unittest.TestCase):
     
           self.assertEqual(x.StateChange(), "Closed")
 
+if __name__ == '__main__':
+  unittest.main()
